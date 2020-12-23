@@ -2,3 +2,6 @@ Client first name
 Client last name 
 Date of birth
 address
+Client phone number 
+Street number 
+Town 
